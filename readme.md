@@ -26,6 +26,7 @@ requirements.txt 可能不適用於所有作業系統或環境（本版本於 Wi
 ### 1. 開啟 Google Colab
 - 前往 [Google Colab](https://colab.research.google.com/)
 - 上傳 `yt_subtitle.ipynb` 檔案
+- 使用類似插建去 youtube 下載 cookies.txt 並且放在執行環境之中 https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
 
 ### 2. 修改影片連結
 根據你的需求選擇其中一種方式：
