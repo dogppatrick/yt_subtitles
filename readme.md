@@ -25,7 +25,7 @@ requirements.txt 可能不適用於所有作業系統或環境（本版本於 Wi
 
 ### 1. 開啟 Google Colab
 - 前往 [Google Colab](https://colab.research.google.com/)
-- 上傳 `YouTube_Audio_Transcription.ipynb` 檔案
+- 上傳 `yt_subtitle.ipynb` 檔案
 
 ### 2. 修改影片連結
 根據你的需求選擇其中一種方式：
